@@ -1,8 +1,7 @@
 namespace MyGame;
 
-enum Color : uint8_t
+enum sql_type : uint8_t
 { 
-	Red = 1
-	, Green
-	, Blue 
+	info = 0
+	, game
 }
