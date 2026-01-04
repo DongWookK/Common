@@ -1,0 +1,8 @@
+namespace MyGame;
+
+enum Color : uint8_t
+{ 
+	Red = 1
+	, Green
+	, Blue 
+}
