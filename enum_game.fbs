@@ -1,9 +1,8 @@
 namespace MyGame;
 
-enum Color : uint8_t
+enum type : uint8_t
 { 
-	Red = 1
-	, Green
-	, Blue 
-	, Yellow
+	player = 0
+	, npc
+	, monster 
 }
